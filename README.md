@@ -16,7 +16,7 @@ A command-line interface for managing assets on ethereum mainnet.
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Intel-Tiny/AlchemyTest-WalletManagement.git
-   cd token-swap-cli
+   cd AlchemyTest-WalletManagement
 2. **Install dependencies**
    ```bash
    yarn install
